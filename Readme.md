@@ -41,4 +41,4 @@ I’ve customized this project to showcase how a **Manual Tester** would approac
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/page-language-model
+   git clone https://github.com/komalme2na/pg_landing.git
